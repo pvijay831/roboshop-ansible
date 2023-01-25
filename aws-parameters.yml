@@ -1,5 +1,5 @@
 - name: Create Parameters
-  hosts: localhos
+  hosts: localhost
   connection: local
   tasks:
     - name: Create Parameters
